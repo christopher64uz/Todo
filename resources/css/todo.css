@@ -1,0 +1,47 @@
+body {
+    padding-top: 50px;
+}
+
+.home-content {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.tm5 {
+    margin-top:5px;
+}
+
+.error {
+    color:red;
+}
+
+.success {
+    color:green;
+}
+
+table {
+    border: solid 1px #000;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding:3px;
+    border:solid 1px #000;
+}
+
+td.select {
+    width:10%;
+}
+
+td.description {
+    width:50%;
+}
+
+td.status {
+    width:20%;
+}
+
+td.date {
+    width:20%;
+}
